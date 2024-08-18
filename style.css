@@ -21,7 +21,7 @@ nav .logo{
 }
 .list_section ul{
     list-style: none;
-    margin-right: 100px;
+    margin-right: 50px;
 }
 .list_section ul li{
     float: left;
@@ -175,6 +175,9 @@ nav .logo{
     position: relative;
     gap: 80px;
 }
+.secure_file{
+    display: flex;
+}
 .think h3{
     position: absolute;
     left: 0;
@@ -182,6 +185,7 @@ nav .logo{
 }
 .secure{
     text-align: center;
+    margin-left: 80px;
 }
 .secure .escrow{
     width: 40px;
@@ -374,7 +378,7 @@ footer{
 }
 
 /* This is mobile responsive part*/
-
+/* 
 @media (max-width: 768px) {
     nav{
         width: 100%;
@@ -559,7 +563,7 @@ footer{
         margin-left: 90px;
     }
 
-}
+} */
 
 
 
